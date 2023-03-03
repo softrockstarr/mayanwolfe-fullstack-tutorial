@@ -1,4 +1,4 @@
-Coding along with MayanWolfe's full stack app stream to create a very basic MVC CRUD app using dotenv, .ejs, node, express, and MongoDB (mongoose).
+Coding along with [MayanWolfe's full stack app streams](https://www.youtube.com/watch?v=FBkwsiMKE5g) to create a very basic MVC CRUD app using dotenv, .ejs, node, express, and MongoDB (mongoose).
 
 ## To run this code on your own fork:
 
